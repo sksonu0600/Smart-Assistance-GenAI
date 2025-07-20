@@ -1,0 +1,11 @@
+streamlit
+flask
+google-generativeai
+langchain
+PyPDF2
+python-dotenv
+faiss-cpu
+langchain-google-genai
+flask-cors
+langchain-community
+requests
